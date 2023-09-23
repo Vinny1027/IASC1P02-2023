@@ -1,3 +1,14 @@
-body{
-  background-color:black; 
+#firstHeader{
+  color:red;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+.emphasized {
+  font-style: italic;
+}
+.greenText{
+  color:green;
 }
