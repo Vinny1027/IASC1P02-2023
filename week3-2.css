@@ -4,12 +4,17 @@ body{
 
 .ul{
   color:green;
-  font-size: italic;
-  font-size: 30px;
 }
 
 .list-inline{
   list-style: none;
   margin-left: 0;
   padding-left: 0;
+}
+
+.emphasized{
+  font-size: italic;
+}
+.font-size{
+  font-size: 30px;
 }
