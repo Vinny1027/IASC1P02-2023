@@ -5,9 +5,11 @@ body{
 .ul{
   color:green;
   font-size: italic;
+  font-size: 30px;
 }
 
-.li{
-  display: inline;
-  font-size: 30px;
+.list-inline{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 }
