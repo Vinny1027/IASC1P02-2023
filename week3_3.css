@@ -3,6 +3,7 @@ p{
   text-transform: uppercase;
 }
 .img{
-  width: 60px;
+  max-width: 50%;
+  max-height: 50%;
   border: 1px solid black;
 }
