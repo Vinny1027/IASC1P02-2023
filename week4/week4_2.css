@@ -1,0 +1,29 @@
+.box{
+  margin:3px 5% 3px 5%;
+  border: purple 3px dashed;
+  padding: 30px 40% 30px 40%;
+}
+div p{
+  text-align: center;
+  font-size: 12px;
+}
+.outbox{
+  text-align: center;
+  font-size: 11px;
+  color:blue;
+}
+
+.small{
+  text-align: right;
+  font-size: 10px;
+  color: red;
+}
+
+.big{
+  text-align: left;
+  font-size: 20px;
+  color: green;
+}
+.diff{
+  color: yellow;
+}
