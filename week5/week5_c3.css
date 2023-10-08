@@ -6,7 +6,7 @@ body{
   height: 300px;
   width: 300px;
   text-align: left;
-  background-color: yellow;
+  background-color: blue;
 }
 
 #middle{
@@ -14,7 +14,7 @@ body{
   height: 300px;
   width: 300px;
   text-align: left;
-  background-color: red;
+  background-color: yellow;
   top:350px;
   left: 545px;
 }
@@ -24,7 +24,7 @@ body{
   height: 300px;
   width: 300px;
   text-align: left;
-  background-color: blue;
+  background-color: red;
   bottom: 410px;
   right: 10px;
 }
