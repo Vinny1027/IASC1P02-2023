@@ -1,0 +1,30 @@
+body{
+  background-color: green;
+}
+
+#left{
+  height: 300px;
+  width: 300px;
+  text-align: left;
+  background-color: blue;
+}
+
+#middle{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  text-align: left;
+  background-color: yellow;
+  top:350px;
+  left: 545px;
+}
+
+#right{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  text-align: left;
+  background-color: red;
+  bottom: 410px;
+  right: 10px;
+}
