@@ -1,0 +1,46 @@
+body{
+  background-color: beige;
+}
+
+h1,h2{
+  color: green;
+}
+
+.intro{
+  text-transform: uppercase;
+  font-style: oblique;
+}
+
+#pizzabox{
+  position: relative;
+}
+
+#smile{
+  position: fixed;
+  top: 2px;
+  right: 0px;
+}
+
+.pizza{
+  color: orange;
+  font-size: 20px;
+}
+
+.spanishles{
+  text-transform: capitalize;
+}
+.marked p{
+  font-style: italic;
+  color: red;
+}
+
+.box{
+  margin:30px 20% 30px 20%;
+  border: black 3px solid;
+  padding: 10px 20% 10px 0%;
+  background-color: yellow;
+}
+
+#anchor{
+  position: absolute;
+}
