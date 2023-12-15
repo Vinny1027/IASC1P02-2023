@@ -1,0 +1,65 @@
+body{
+  background-color: black;
+}
+
+#wrapper{
+  width: 1000px;
+  margin:0 auto;
+  background-color: white;
+
+}
+
+#header{
+  height: 150px;
+  text-align: center;
+}
+
+.title{
+  font-size: 30px;
+  font-family: cursive;
+  color: #871818;
+}
+
+.logo{
+  float: left;
+  position: absolute;
+}
+
+#nav{
+  height: 99px;
+  width: auto;
+  background-color: white;
+  color: black;
+  font-family: monaco, monospace;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+#box{
+  height: 490px;
+  width: 1000px;
+  background-color: white;
+}
+
+#topbody{
+  left: 70px;
+  height: 100px;
+  width: 800px;
+  background-color: white;
+}
+
+#lowerbody{
+width: 1000px;
+height: 900px;
+
+}
+
+.truth{
+text-align: center;
+font-size: 18px;
+}
+
+.page6{
+  text-align: center;
+}

@@ -1,0 +1,67 @@
+body{
+  background-color: #7D0000;
+}
+
+#wrapper{
+  width: 1000px;
+  height: 2000px;
+  margin:0 auto;
+  background-color: black;
+
+}
+
+#header{
+  height: 150px;
+  text-align: center;
+}
+
+.title{
+  font-size: 30px;
+  font-family: cursive;
+  color: #871818;
+}
+
+.logo{
+  float: left;
+  position: absolute;
+}
+
+#nav{
+  height: 99px;
+  width: auto;
+  background-color: black;
+  color: black;
+  font-family: monaco, monospace;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+#box{
+  height: 2050px;
+  width: 1000px;
+  background-color: black;
+}
+
+.welcome{
+  text-align: center;
+  font-size: 45px;
+  font-family: fantasy;
+}
+
+.members{
+  font-size: 40px;
+  text-align: center;
+  font-family: cursive;
+  color: white;
+}
+
+.maria{color: white;}
+.john{color: white;}
+.aliza{color: white;}
+.zian{color: white;}
+.morse{color: white;}
+
+.more{
+  font-size: 20px;
+}
