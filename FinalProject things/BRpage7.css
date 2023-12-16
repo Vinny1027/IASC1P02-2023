@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+
+#wrapper{
+  width: 1000px;
+  height: 2000px;
+  margin:0 auto;
+  background-color: black;
+
+}
+
+#header{
+  height: 150px;
+  text-align: center;
+}
+
+.title{
+  font-size: 30px;
+  font-family: cursive;
+  color: #871818;
+}
+
+
+.pass{
+  color: white;
+  font-family: fantasy;
+}

@@ -56,12 +56,53 @@ body{
   color: white;
 }
 
-.maria{color: white;}
-.john{color: white;}
-.aliza{color: white;}
-.zian{color: white;}
-.morse{color: white;}
+
+.bio{
+  color: white;
+}
 
 .more{
   font-size: 20px;
+}
+
+
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_fade */
+.dead {
+  position: relative;
+  width: 50%;
+}
+
+.pic {
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  width: 200px;
+  opacity: 0;
+  transition: .4s ease;
+  background-color: black;
+}
+
+.dead:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
